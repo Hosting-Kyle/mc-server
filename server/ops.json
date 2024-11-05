@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "f82f0e9e-defa-3cac-bec0-7a81650b8e1f",
+    "name": "kylecrane",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fffdb443-4404-3f23-9c70-f448d5dbb100",
+    "name": "gamingRSD2_0",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
